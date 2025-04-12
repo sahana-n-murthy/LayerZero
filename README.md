@@ -24,7 +24,7 @@ I'm **Sahana**, a cybersecurity engineer, curious learner, and occasional debugg
 ---
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sahananmurthy/) • [Email](mailto:sahanamurthy2010@gmail.com)  
-🔗 Blog link (soon): [layerzero.github.io](https://github.com/sahana-n-murthy/LayerZero)
+🔗 Blog link (soon): [layerzero.github.io](https://sahana-n-murthy.github.io/LayerZero/)
 
 ---
 
