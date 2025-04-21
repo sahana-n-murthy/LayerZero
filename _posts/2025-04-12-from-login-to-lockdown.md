@@ -8,8 +8,6 @@ cover_image: /assets/images/cover-lockdown.png
 permalink: /2025/04/12/from-login-to-lockdown/
 ---
 
-<h1 style="color:#0f766e; font-weight: bold;">LayerZero</h1>
-
 <h2 style="color:#000; font-weight: bold;">
   From Login to Lockdown: Dissecting a Broken Authentication Flow
 </h2>
