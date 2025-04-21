@@ -9,6 +9,9 @@ description: A hands-on walkthrough of how I uncovered a broken access control v
 permalink: /2025/04/12/from-login-to-lockdown/
 ---
 <h1 style="color:#0f766e;">LayerZero</h1>
+<h3 style="color:#000; font-weight: normal;">
+  From Login to Lockdown: Dissecting a Broken Authentication Flow
+</h3>
 
 ## Introduction: Trust in Authentication and the Pitfall of Assumptions
 
