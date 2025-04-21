@@ -82,7 +82,7 @@ Right after login, the application confirmed my identity by sending a token-auth
 GET /rest/user/whoami
 ```
 
-![Whoami Request](/assets/images/whoami-request.png)
+![Whoami Request](/LayerZero/assets/images/whoami-request.png)
 
 This indicated a successful authentication and a session in progress.
 
@@ -96,7 +96,7 @@ While exploring features like **Order History** and **My Basket**, I monitored H
 GET /rest/basket/6
 ```
 
-![HTTP History Basket ID](/assets/images/http-history-basket-id.png)
+![HTTP History Basket ID](/LayerZero/assets/images/http-history-basket-id.png)
 
 This `6` appeared to be a direct object reference — possibly my current basket ID.
 
@@ -113,16 +113,16 @@ GET /rest/basket/1
 Authorization: Bearer <valid_token>
 ```
 
-![Modified Repeater Request](/assets/images/repeater-modify-basket-id.png)
+![Modified Repeater Request](/LayerZero/assets/images/repeater-modify-basket-id.png)
 
 After sending the modified request:
 
-![Repeater Response from Basket 1](/assets/images/repeater-response-basket-1.png)
+![Repeater Response from Basket 1](/LayerZero/assets/images/repeater-response-basket-1.png)
 
 The response returned details of **another user’s basket (User ID = 1)**, as you can see confirming that no access control check was in place.
 
 ---
 
-> *From root to reason — this is <span style="color:#0f766e; font-weight:bold;">LayerZero</span>.*
+> *From root to reason — this is <span style="color:#0366d6; font-weight:bold;">LayerZero</span>.*
 
 
