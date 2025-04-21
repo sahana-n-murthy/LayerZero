@@ -3,11 +3,11 @@ layout: default
 title: LayerZero
 ---
 
-# LayerZero
+# <h1><span style="color:#007acc;">LayerZero</span></h1>
 
 > 🧠 *Where cybersecurity begins from the root — decoding threats, code, and curiosity.*
 
-Welcome to **LayerZero**, a personal knowledge journal by Sahana.  
+Welcome to <span style="color:#007acc; font-weight:bold;">LayerZero</span>, a personal knowledge journal by Sahana.  
 I navigate cybersecurity through a shifting lens — from the code we write to the threats we chase.
 
 This space captures what challenges me, what excites me, and what reshapes the way I understand security —  
