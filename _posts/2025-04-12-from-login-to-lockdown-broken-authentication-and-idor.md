@@ -8,7 +8,7 @@ cover_image: /assets/images/cover-lockdown.png
 description: A hands-on walkthrough of how I uncovered a broken access control vulnerability in a login flow using OWASP Juice Shop and Burp Suite.
 ---
 
-## 👋 Introduction: Trust in Authentication and the Pitfall of Assumptions
+## Introduction: Trust in Authentication and the Pitfall of Assumptions
 
 Authentication is foundational to every secure application. It establishes identity, grants access, and builds the boundary between users and their data.
 
@@ -26,16 +26,16 @@ This is known as **Insecure Direct Object Reference (IDOR)** — a vulnerability
 
 ## 🔍 Understanding IDOR — Insecure Direct Object Reference
 
-**IDOR** occurs when an application exposes a way to access internal resources (like user profiles, orders, or files) through a direct reference such as an ID — **without verifying whether the current user is authorized to access it.**
+**IDOR** occurs when an application exposes a way to access internal resources (like user profiles, orders, or files) through a direct reference such as an ID or any value — **without verifying whether the current user is authorized to access it.**
 
 ### 📌 Example
 
 ```
-GET /user/125/profile
+GET /user/**125**/profile
 ```
 If you change that to:
 ```
-GET /user/126/profile
+GET /user/**126**/profile
 ```
 ...and the server returns someone else’s data — that's IDOR.
 
@@ -93,7 +93,7 @@ GET /rest/basket/6
 
 This `6` appeared to be a direct object reference — possibly my current basket ID.
 
-> I wanted to know: *What happens if I try to access basket 1 instead?*
+> I wanted to know: *What happens if I try to change the ID to basket 1 instead?*
 
 ---
 
@@ -171,7 +171,7 @@ This can lead to **privacy breaches**, **data leaks**, and **regulatory violatio
 
 ---
 
-## ✅ How to Prevent IDOR Vulnerabilities
+##  How to Prevent IDOR Vulnerabilities
 
 | Practice                            | Why it's important |
 |-------------------------------------|---------------------|
@@ -211,7 +211,7 @@ Access it via `http://localhost:3000`.
 
 ## 💬 Final Thoughts
 
-This test didn’t involve complex exploits — only curiosity and logic.  
+This test didn’t involve complex exploits, only curiosity and logic.  
 When access control isn’t enforced properly, **even authenticated users can become unauthorized attackers.**
 
 What made this test successful wasn’t just the tools — it was the question that started it all:
