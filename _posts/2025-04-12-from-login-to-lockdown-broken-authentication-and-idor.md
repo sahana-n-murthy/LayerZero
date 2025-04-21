@@ -6,6 +6,7 @@ date: 2025-04-12
 tags: [OWASP, IDOR, Burp Suite, Broken Authentication, Web Security]
 cover_image: /assets/images/cover-lockdown.png
 description: A hands-on walkthrough of how I uncovered a broken access control vulnerability in a login flow using OWASP Juice Shop and Burp Suite.
+permalink: /2025/04/12/from-login-to-lockdown/
 ---
 
 ## Introduction: Trust in Authentication and the Pitfall of Assumptions
