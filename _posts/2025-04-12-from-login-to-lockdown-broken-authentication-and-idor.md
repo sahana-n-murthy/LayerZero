@@ -112,7 +112,7 @@ After sending the modified request:
 
 ![Repeater Response from Basket 1](/assets/images/repeater-response-basket-1.png)
 
-The response returned details of **another user’s basket**, confirming that no access control check was in place.
+The response returned details of **another user’s basket (User ID = 1)**, as you can see confirming that no access control check was in place.
 
 ---
 
@@ -124,7 +124,7 @@ These weren’t just hypothetical risks — IDOR has played a role in several si
 **Year**: 2019  
 **Impact**: Exposed over 885 million records including mortgage documents, Social Security numbers, bank accounts, and tax records.  
 **Cause**: An IDOR vulnerability allowed unauthenticated users to increment document IDs in the URL and access sensitive files.  
-🔗 [Source – UpGuard](https://www.upguard.com/blog/biggest-data-breaches-us?utm_source=chatgpt.com)
+🔗 [Source – Forbes](https://www.forbes.com/sites/ajdellinger/2019/05/26/understanding-the-first-american-financial-data-leak-how-did-it-happen-and-what-does-it-mean/)
 
 ---
 
@@ -132,7 +132,7 @@ These weren’t just hypothetical risks — IDOR has played a role in several si
 **Year**: 2021  
 **Impact**: Personal data of 533 million users leaked, including phone numbers, Facebook IDs, full names, and locations.  
 **Cause**: An IDOR-style flaw in Facebook's contact importer tool allowed scraping user data without proper access control.  
-🔗 [Source – UpGuard](https://www.upguard.com/blog/biggest-data-breaches-us?utm_source=chatgpt.com)
+🔗 [Source – NPR](https://www.npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users)
 
 ---
 
