@@ -122,7 +122,7 @@ After sending the modified request:
 The response returned details of **another user’s basket (User ID = 1)**, as you can see confirming that no access control check was in place.
 
 ---
-
+ 
 > *From root to reason — this is <span style="color:#0366d6; font-weight:bold;">LayerZero</span>.*
 
 
