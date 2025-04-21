@@ -26,7 +26,7 @@ I'm **Sahana**, a cybersecurity engineer, curious learner, and occasional debugg
 
 <ul>
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
