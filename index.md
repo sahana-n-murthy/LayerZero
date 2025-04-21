@@ -34,5 +34,5 @@ I'm **Sahana**, a cybersecurity engineer, curious learner, and occasional debugg
 
 ##   Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/sahananmurthy/)  [Email](mailto:sahanamurthy2010@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sahananmurthy/)  - [Email](mailto:sahanamurthy2010@gmail.com)
   
