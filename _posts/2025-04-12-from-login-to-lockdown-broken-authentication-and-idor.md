@@ -8,6 +8,7 @@ cover_image: /assets/images/cover-lockdown.png
 description: A hands-on walkthrough of how I uncovered a broken access control vulnerability in a login flow using OWASP Juice Shop and Burp Suite.
 permalink: /2025/04/12/from-login-to-lockdown/
 ---
+<h1 style="color:#0f766e;">LayerZero</h1>
 
 ## Introduction: Trust in Authentication and the Pitfall of Assumptions
 
