@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🛡️ From Login to Lockdown: Dissecting a Broken Authentication Flow"
+#title: "🛡️ From Login to Lockdown: Dissecting a Broken Authentication Flow"
 author: Sahana Narasimha Murthy
 date: 2025-04-12
 tags: [OWASP, IDOR, Burp Suite, Broken Authentication, Web Security]
