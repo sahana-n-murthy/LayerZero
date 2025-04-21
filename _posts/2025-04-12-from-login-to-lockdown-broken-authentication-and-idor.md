@@ -1,18 +1,18 @@
 ---
 layout: post
-#title: "🛡️ From Login to Lockdown: Dissecting a Broken Authentication Flow"
+title: ""  # This removes the default blue LayerZero blog title on top
 author: Sahana Narasimha Murthy
 date: 2025-04-12
 tags: [OWASP, IDOR, Burp Suite, Broken Authentication, Web Security]
 cover_image: /assets/images/cover-lockdown.png
-description: A hands-on walkthrough of how I uncovered a broken access control vulnerability in a login flow using OWASP Juice Shop and Burp Suite.
 permalink: /2025/04/12/from-login-to-lockdown/
 ---
-<h1 style="color:#0f766e;">LayerZero</h1>
-<h3 style="color:#000; font-weight: normal;">
-  From Login to Lockdown: Dissecting a Broken Authentication Flow
-</h3>
 
+<h1 style="color:#0f766e; font-weight: bold;">LayerZero</h1>
+
+<h2 style="color:#000; font-weight: bold;">
+  From Login to Lockdown: Dissecting a Broken Authentication Flow
+</h2>
 ## Introduction: Trust in Authentication and the Pitfall of Assumptions
 
 Authentication is foundational to every secure application. It establishes identity, grants access, and builds the boundary between users and their data.
