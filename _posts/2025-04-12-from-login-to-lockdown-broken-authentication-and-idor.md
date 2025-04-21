@@ -186,7 +186,7 @@ This can lead to **privacy breaches**, **data leaks**, and **regulatory violatio
 
 ### Tools Required:
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [Burp Suite Community Edition](https://portswigger.net/burp/community)
+- [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
 ### Instructions:
 
