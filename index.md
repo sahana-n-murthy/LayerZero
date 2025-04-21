@@ -38,4 +38,4 @@ LayerZero is where I collect what I learn — byte by byte, bug by bug, and some
 ---
 
 📫 Want to connect?  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sahana-narasimha-murthy) or check out my [GitHub profile](https://github.com/sahana-n-murthy).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sahana-narasimha-murthy).
