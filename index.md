@@ -3,7 +3,7 @@ layout: default
 title: LayerZero
 ---
 
-<h1 style="color:#0f766e;">LayerZero</h1>
+<h1 style="color:#0366d6;">LayerZero</h1>
 
 > 🧠 *Where cybersecurity begins from the root — decoding threats, code, and curiosity.*
 
