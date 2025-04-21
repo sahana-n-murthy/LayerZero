@@ -1,13 +1,38 @@
-# Blog Posts
+---
+layout: default
+title: LayerZero
+---
 
-Welcome to the LayerZero blog. Explore writeups and walkthroughs below.
+# LayerZero
 
-## Recent Articles
+> 🧠 *Where cybersecurity begins from the root — decoding threats, code, and curiosity.*
 
-- [From Login to Lockdown: Broken Authentication and IDOR Exploitation](./_posts/2025-04-12-from-login-to-lockdown-broken-authentication-and-idor.md)
+Welcome to **LayerZero**, a personal knowledge journal by Sahana.  
+I navigate cybersecurity through a shifting lens — from the code we write to the threats we chase.
 
-## Contact
+This space captures what challenges me, what excites me, and what reshapes the way I understand security —  
+from structured learning to spontaneous exploration.
+
+---
+
+## 👩‍💻 About Me
+
+I'm **Sahana**, a cybersecurity engineer, curious learner, and occasional debugger of both systems and thought.  
+**LayerZero** is where I collect and share what I learn — byte by byte, bug by bug, and sometimes log by log.
+
+---
+
+## 📝 Blog Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+---
+
+## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/sahananmurthy/)
 - [Email](mailto:sahanamurthy2010@gmail.com)
-
