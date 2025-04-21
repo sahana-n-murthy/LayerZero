@@ -1,0 +1,30 @@
+# LayerZero Blog Configuration
+title: ""  # Override default to prevent site title from auto-rendering
+email: sahanamurthy2010@gmail.com
+description: >- 
+  LayerZero is a cybersecurity learning journal by Sahana — decoding threats, code, and curiosity.
+
+# GitHub Pages
+theme: minima
+markdown: kramdown
+baseurl: "/LayerZero" # repo name
+url: "https://sahana-n-murthy.github.io"
+
+# Social links (optional, used by some themes)
+linkedin_username: sahananmurthy
+github_username: sahana-n-murthy
+
+# Permalinks for cleaner post URLs
+permalink: /:year/:month/:day/:title/
+
+# Include folders GitHub Pages doesn't process by default
+include:
+  - _pages
+  - assets
+
+# Exclude if needed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
