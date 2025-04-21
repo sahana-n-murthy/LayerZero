@@ -5,7 +5,6 @@ author: "Sahana Narasimha Murthy"
 date: 2025-04-12
 tags: [OWASP, IDOR, Burp Suite, Broken Authentication, Web Security]
 cover_image: /assets/images/cover-lockdown.png
-permalink: /2025/04/12/from-login-to-lockdown/
 ---
 
 <h2 style="color:#000; font-weight: bold;">
