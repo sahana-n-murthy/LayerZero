@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: default
 title: LayerZero
 ---
+
+<h1 style="color:#0f766e;">LayerZero</h1>
 
 > 🧠 *Where cybersecurity begins from the root — decoding threats, code, and curiosity.*
 
@@ -22,17 +24,15 @@ I'm **Sahana**, a cybersecurity engineer, curious learner, and occasional debugg
 
 ## 📝 Blog Posts
 
-<ul>
-  {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})  
+{% endfor %}
 
 ---
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sahananmurthy/)  
+- [LinkedIn](https://www.linkedin.com/in/sahananmurthy/)
 - [Email](mailto:sahanamurthy2010@gmail.com)
 
   
