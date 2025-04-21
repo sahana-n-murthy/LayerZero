@@ -1,12 +1,14 @@
 ---
 layout: post
-title: ""  # This removes the default blue LayerZero blog title on top
-author: Sahana Narasimha Murthy
+title: "From Login to Lockdown: Dissecting a Broken Authentication Flow"
+author: "Sahana Narasimha Murthy"
 date: 2025-04-12
 tags: [OWASP, IDOR, Burp Suite, Broken Authentication, Web Security]
 cover_image: /assets/images/cover-lockdown.png
+description: A hands-on walkthrough of how I uncovered a broken access control vulnerability in a login flow using OWASP Juice Shop and Burp Suite.
 permalink: /2025/04/12/from-login-to-lockdown/
 ---
+<!-- Do NOT manually write LayerZero title here again -->
 
 <h1 style="color:#0f766e; font-weight: bold;">LayerZero</h1>
 
