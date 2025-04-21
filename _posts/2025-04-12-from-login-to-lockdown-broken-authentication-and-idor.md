@@ -217,10 +217,10 @@ When access control isn’t enforced properly, **even authenticated users can be
 
 What made this test successful wasn’t just the tools — it was the question that started it all:
 
-* Can I access what someone else owns? *
+* Can I access what someone else owns? 
 
 
 ---
 
-> *From root to reason — this is <span style="color:#007acc; font-weight:bold;">LayerZero</span>.*
+> *From root to reason — this is <span style="color:#0f766e; font-weight:bold;">LayerZero</span>.*
 
