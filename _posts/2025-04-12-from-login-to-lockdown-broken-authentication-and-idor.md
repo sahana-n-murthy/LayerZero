@@ -217,7 +217,7 @@ When access control isn’t enforced properly, **even authenticated users can be
 
 What made this test successful wasn’t just the tools — it was the question that started it all:
 
-* Can I access what someone else owns?*
+* Can I access what someone else owns? *
 
 
 ---
