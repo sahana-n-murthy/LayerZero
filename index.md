@@ -7,7 +7,7 @@ title: LayerZero
 
 > 🧠 *Where cybersecurity begins from the root — decoding threats, code, and curiosity.*
 
-Welcome to <span style="color:#0f766e; font-weight:bold;">LayerZero</span>, a personal knowledge journal by Sahana.  
+Welcome to <span style="color:#0366d6; font-weight:bold;">LayerZero</span>, a personal knowledge journal by Sahana.  
 I navigate cybersecurity through a shifting lens — from the code we write to the threats we chase.
 
 This space captures what challenges me, what excites me, and what reshapes the way I understand security —  
