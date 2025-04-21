@@ -29,6 +29,4 @@ exclude:
   - Gemfile.lock
 
 # Author (optional)
-author:
-  name: "Sahana Narasimha Murthy"
-  email: "sahanamurthy2010@gmail.com"
+author: "Sahana Narasimha Murthy"
