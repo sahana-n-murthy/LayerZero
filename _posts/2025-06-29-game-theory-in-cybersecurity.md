@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Game Theory in Cybersecurity: Modeling the Adversary"
+date: 2025-06-29
+---
+
 # Applying Game Theory in Cybersecurity Defense
 
 ## Introduction
