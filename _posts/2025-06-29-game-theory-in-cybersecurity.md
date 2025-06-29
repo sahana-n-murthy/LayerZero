@@ -189,7 +189,7 @@ To rigorously calculate payoffs:
 
 ---
 
-##Note: 
+Note: 
 
 - The payoff values in game theory models are flexible and context-dependent.
 - They’re intended to capture **relative preferences and trade-offs**.
