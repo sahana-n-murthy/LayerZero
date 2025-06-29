@@ -24,8 +24,8 @@ I'm **Sahana**, a cybersecurity engineer, curious learner, and occasional debugg
 
 ## 📝 Blog Posts
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) 
+{% for post in site.posts reversed %}
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
 ---
