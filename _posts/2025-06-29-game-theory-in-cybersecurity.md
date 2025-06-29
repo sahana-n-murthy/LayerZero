@@ -183,9 +183,7 @@ To rigorously calculate payoffs:
 3. **Incorporate probabilities** of events happening.  
 4. **Use formulas like:**
 
-\[
-\text{Expected Payoff} = \text{Probability of Event} \times \text{Impact Score} - \text{Cost of Action}
-\]
+`Expected Payoff = Probability of Event × Impact Score − Cost of Action`
 
 5. **Adjust weights** based on organizational priorities (e.g., brand damage vs. operational disruption).
 
